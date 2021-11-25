@@ -42,7 +42,7 @@ body {
 }
 
 header {
-  background-image: url(../img/desktop/image-header.jpg);
+  background-image: url(../img/image-header.jpg);
   background-size: cover;
   background-position: bottom;
   grid-column: 1/6;
@@ -206,11 +206,11 @@ referenced to the Div */
 
 /* styling the photography and the graphics  */
 .photographyDiv {
-  background-image: url(../img/desktop/image-photography.jpg);
+  background-image: url(../img/image-photography.jpg);
 }
 
 .graphicsDiv {
-  background-image: url(../img/desktop/image-graphic-design.jpg);
+  background-image: url(../img/image-graphic-design.jpg);
 }
 .graphicsDiv,
 .photographyDiv {
@@ -396,7 +396,7 @@ footer {
 
 @media screen and (max-width: 1440px) {
   header {
-    background-image: url(../img/desktop/image-header.jpg);
+    background-image: url(../img/image-header.jpg);
     background-size: cover;
     background-position: bottom;
     position: relative;
@@ -430,7 +430,7 @@ footer {
 
   /* STYLING THE HEADER */
   header {
-    background-image: url(../img/mobile/image-header.jpg);
+    background-image: url(../img/image-header.jpg);
   }
   .header-nav {
     margin-top: 5rem;
@@ -593,10 +593,10 @@ same height,Here the new height is given a class of .info-box2 (transform & stan
   }
   /* STYLING THE GRAPHICS AND PHOTGRAPHY SECTION */
   .graphicsDiv {
-    background-image: url(../img/mobile/image-graphic-design.jpg);
+    background-image: url(../img/image-graphic-design.jpg);
   }
   .photographyDiv {
-    background-image: url(../img/mobile/image-photography.jpg);
+    background-image: url(../img/image-photography.jpg);
   }
   .graphicsDiv--2,
   .photographyDiv--2 {
